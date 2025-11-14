@@ -59,7 +59,7 @@ I'm a junior software engineer and full‑stack developer who enjoys building fu
 
 <img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Kreativlabs"/>
 
-<div align="left" width="70%">
+<div align="right" width="50%">
 
 KreativLabs is a small studio spirit I'm part of — focused on crafting web experiences with a pop-cartoon flavor, without going overboard. We like things that feel friendly, minimal, and a bit playful.
 
@@ -86,35 +86,16 @@ KreativLabs is a small studio spirit I'm part of — focused on crafting web exp
 
 ---
 
-### 📬 Let's Connect!
+### 📬 Contact
 
-<p align="center">
-  <a href="https://github.com/arroychaan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/ar.roychan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:achmadroychan501@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://kreativlabs.my.id">
-    <img src="https://img.shields.io/badge/Website-6B9BD1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
+- GitHub : [`@arroychaan`](https://github.com/arroychaan)
+- Instagram : [@ar.roychan](https://instagram.com/ar.roychan)
+- Email : [achmadroychan501@gmail.com](mailto:achmadroychan501@gmail.com)
+- Website : [kreativlabs.my.id](https://kreativlabs.my.id)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-  <p>
-    <sub>✨ Built with calm colors, cartoon energy, and zero neon ✨</sub>
-  </p>
-  
-  <p>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  </p>
-</div>
+<p align="center">
+	<sub>Built with calm colors, cartoon energy, and zero neon.</sub>
+</p>
 
