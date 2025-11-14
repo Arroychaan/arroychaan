@@ -59,7 +59,7 @@ I'm a junior software engineer and full‑stack developer who enjoys building fu
 
 <img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Kreativlabs"/>
 
-<div align="left" width="50%">
+<div align="left" width="70%">
 
 KreativLabs is a small studio spirit I'm part of — focused on crafting web experiences with a pop-cartoon flavor, without going overboard. We like things that feel friendly, minimal, and a bit playful.
 
