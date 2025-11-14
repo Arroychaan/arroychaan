@@ -40,7 +40,7 @@ I'm a junior software engineer and full‑stack developer who enjoys building fu
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,cpp,git,github,vscode&theme=light" alt="Tech Stack" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="600" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -70,19 +70,6 @@ KreativLabs is a small studio spirit I'm part of — focused on crafting web exp
 </div>
 
 <br clear="both"/>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arroychaan&show_icons=true&theme=calm&hide_border=true&bg_color=f5f5f5&title_color=6B9BD1&icon_color=6B9BD1&text_color=4a5568" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arroychaan&theme=calm&hide_border=true&background=f5f5f5&ring=6B9BD1&fire=6B9BD1&currStreakLabel=6B9BD1" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=arroychaan&theme=github-light&hide_border=true&bg_color=f5f5f5&color=6B9BD1&line=6B9BD1&point=4a5568" alt="Contribution Graph"/>
-</p>
 
 ---
 
