@@ -1,6 +1,3 @@
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-</div>
 
 <h1 align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6B9BD1&center=true&vCenter=true&multiline=false&width=500&height=70&lines=Hi%2C+I'm+Roychan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
@@ -12,11 +9,6 @@
 	📍 Semarang, Central Java, Indonesia
 	<br/>
 	🎨 Member of <a href="https://kreativlabs.my.id" target="_blank">KreativLabs</a>
-</p>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=arroychaan&label=Profile%20Views&color=6B9BD1&style=flat-square" alt="Profile views" />
-	<img src="https://img.shields.io/github/followers/arroychaan?label=Followers&style=flat-square&color=6B9BD1" alt="followers" />
 </p>
 
 ---
@@ -39,9 +31,6 @@ I'm a junior software engineer and full‑stack developer who enjoys building fu
 
 ### 🧩 Tech Stack
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="600" alt="Tech Stack"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -64,8 +53,6 @@ I'm a junior software engineer and full‑stack developer who enjoys building fu
 KreativLabs is a small studio spirit I'm part of — focused on crafting web experiences with a pop-cartoon flavor, without going overboard. We like things that feel friendly, minimal, and a bit playful.
 
 **🌐 Website:** [kreativlabs.my.id](https://kreativlabs.my.id)
-
-**🎨 Vibe:** pastel, clean, and slightly animated
 
 </div>
 
@@ -103,13 +90,6 @@ KreativLabs is a small studio spirit I'm part of — focused on crafting web exp
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
-  <p>
-    <sub>✨ Built with calm colors, cartoon energy, and zero neon ✨</sub>
-  </p>
-  
-  <p>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  </p>
+
 </div>
 
